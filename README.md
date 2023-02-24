@@ -1,1 +1,2 @@
-# praktikum-1
+Nama : Maria Yohanesia Tai
+NIM  : 215314201
